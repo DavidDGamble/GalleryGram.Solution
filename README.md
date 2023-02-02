@@ -21,7 +21,7 @@
 
 
 ### Description
-This is a Gallery application that utilizes uploading of pictures, liking pictures, and purchasing prints of the pictures that you enjoy. Utilizing a shopping cart API, authentication and authorization, and databases.Each user will create their own profile and gain access to their own profile showing photos that they have uploaded as well as the images that they have 'liked'.
+This is a Gallery application that utilizes uploading of pictures, liking pictures, and purchasing prints of the pictures that you enjoy. Utilizing a shopping cart API, authentication and authorization, and databases.  Each user will create their own profile and gain access to their own profile showing photos that they have uploaded as well as the images that they have 'liked'.
 
 ### EXAMPLE IMAGES:
 
